@@ -1,5 +1,5 @@
 # 基于姿态识别的无线手势控制智能小车系统
-![Python](https://img.shields.io/badge/Python-3.7+-blue.svg) ![C](https://img.shields.io/badge/C-STM32F103%2F401-green.svg) ![IDE](https://img.shields.io/badge/IDE-STM32CubeIDE-orange.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.7+-blue.svg) ![C](https://img.shields.io/badge/C-STM32F103%2F401-green.svg) ![IDE](https://img.shields.io/badge/IDE-STM32CubeIDE-orange.svg) ![License](https://img.shields.io/badge/License-GPL3.0-green.svg)
 
 低成本手势控制智能小车 | 手套+小车双STM32主控 | 上位机3D姿态可视化 | 星火杯参赛作品
 
