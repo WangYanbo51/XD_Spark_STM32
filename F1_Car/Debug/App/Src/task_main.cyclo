@@ -1,0 +1,6 @@
+../App/Src/task_main.c:19:6:Debug_Print	1
+../App/Src/task_main.c:32:16:constrain	3
+../App/Src/task_main.c:44:13:Car_ParseCmd	11
+../App/Src/task_main.c:115:13:Car_ProcessDMAData	3
+../App/Src/task_main.c:136:6:MainTask_Init	1
+../App/Src/task_main.c:153:6:MainTask_Loop	3

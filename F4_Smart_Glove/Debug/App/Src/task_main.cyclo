@@ -1,0 +1,4 @@
+../App/Src/task_main.c:30:6:Debug_Print	1
+../App/Src/task_main.c:81:6:I2C_Scan	3
+../App/Src/task_main.c:102:6:MainTask_Init	2
+../App/Src/task_main.c:113:6:MainTask_Loop	3

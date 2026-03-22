@@ -1,0 +1,9 @@
+../Lib/Src/tca9548a.c:14:19:TCA_Init	0	static
+../Lib/Src/tca9548a.c:34:19:TCA_OpenChannel	16	static
+../Lib/Src/tca9548a.c:52:19:TCA_CloseChannel	16	static
+../Lib/Src/tca9548a.c:70:19:TCA_SelectChannel	16	static
+../Lib/Src/tca9548a.c:88:19:TCA_SetMultipleChannels	16	static
+../Lib/Src/tca9548a.c:105:19:TCA_OpenAllChannels	16	static
+../Lib/Src/tca9548a.c:122:19:TCA_CloseAllChannels	16	static
+../Lib/Src/tca9548a.c:140:9:TCA_GetChannelStatus	24	static
+../Lib/Src/tca9548a.c:158:9:TCA_GetAllChannelStatus	16	static

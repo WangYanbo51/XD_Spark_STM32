@@ -1,0 +1,2 @@
+../App/Src/gesture.c:13:6:Gesture_Init	0	static
+../App/Src/gesture.c:72:6:Gesture_GetCmd	40	static

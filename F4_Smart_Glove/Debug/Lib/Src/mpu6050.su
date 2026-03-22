@@ -1,0 +1,6 @@
+../Lib/Src/mpu6050.c:94:9:MPU6050_Init	48	static
+../Lib/Src/mpu6050.c:127:6:MPU6050_Read_Accel	40	static
+../Lib/Src/mpu6050.c:149:6:MPU6050_Read_Gyro	40	static
+../Lib/Src/mpu6050.c:171:6:MPU6050_Read_Temp	40	static
+../Lib/Src/mpu6050.c:262:8:Kalman_getAngle	96	static
+../Lib/Src/mpu6050.c:184:6:MPU6050_Read_All	88	static

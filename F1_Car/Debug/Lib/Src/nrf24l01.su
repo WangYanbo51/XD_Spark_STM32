@@ -1,0 +1,10 @@
+../Lib/Src/nrf24l01.c:6:9:NRF24L01_Check	16	static
+../Lib/Src/nrf24l01.c:31:9:NRF24L01_R_IRQ	8	static
+../Lib/Src/nrf24l01.c:42:9:NRF24L01_SPI_SwapByte	32	static
+../Lib/Src/nrf24l01.c:55:6:NRF24L01_W_Reg	16	static
+../Lib/Src/nrf24l01.c:69:9:NRF24L01_R_Reg	24	static
+../Lib/Src/nrf24l01.c:87:6:NRF24L01_W_Buf	24	static
+../Lib/Src/nrf24l01.c:105:6:NRF24L01_R_Buf	32	static
+../Lib/Src/nrf24l01.c:121:6:NRF24L01_Init	8	static
+../Lib/Src/nrf24l01.c:145:6:NRF24L01_Receive	24	static
+../Lib/Src/nrf24l01.c:164:9:NRF24L01_Send	24	static
